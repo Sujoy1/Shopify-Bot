@@ -1,0 +1,21 @@
+{
+  "name": "shopify-project",
+  "version": "1.0.0",
+  "description": "Server to retreive heatmap and demogrraphic data from Shopify Platform into database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Example",
+    "Coupons",
+    "Shopify",
+    "Discount"
+  ],
+  "author": "Sujoy Seal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
